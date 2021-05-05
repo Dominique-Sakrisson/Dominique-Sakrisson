@@ -1,18 +1,18 @@
 ## Hello, you've reached Dom👋
 ## Software Engineer
-### Your extroverted introvert
+#### Your extroverted introvert
 
 
-### Location Location Location: 
+## Location Location Location: 
 #### Portland, OR
 
 
-### Contact me via... 
+## Contact me via.
 #### linkedIn: https://www.linkedin.com/in/dominique-sakrisson/
 #### email: domsakrisson@gmail.com
 
 
-#### If I haven't responded its most likely due to..
+### If I haven't responded its most likely due to..
 ### I'm in the mountains..
 ### maybe soaking up the sun at the beach..
 ### gone for a nice drive...
