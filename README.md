@@ -1,16 +1,23 @@
-### Yes hello, You've reached Dom👋
-### Software Engineer
+## Hello, you've reached Dom👋
+## Software Engineer
 ### Your extroverted introvert
-### Location Location Location: Portland, OR
+
+
+### Location Location Location: 
+#### Portland, OR
+
+
 ### Contact me via... 
 #### linkedIn: https://www.linkedin.com/in/dominique-sakrisson/
 #### email: domsakrisson@gmail.com
-### If I haven't responded its most likely due to..
+
+
+#### If I haven't responded its most likely due to..
 ### I'm in the mountains..
 ### maybe soaking up the sun at the beach..
 ### gone for a nice drive...
 ### music is playing too loud to hear the notifications
-
+### rock on! 
 
 
 I initially got into coding because of the money, I dreamed of making over a $100000 to sit at a computer and create something from nothing. It was after I started plugging myself into working in collaborative environments that I picked up the essence of something else something that wasn't just greed, I found a calling. I've enjoyed nothing more than dedicating my skills to developing a project with others.
