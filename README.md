@@ -1,6 +1,6 @@
 ## Hello, you've reached Dom👋
 ## Software Engineer
-#### You're extroverted introvert
+#### Your extroverted introvert
 
 
 ## Location Location Location: 
@@ -15,9 +15,8 @@
 ### If I'm not working in a codebase..
 ### I'm in the mountains,  🏔
 ### maybe soaking up the sun at the beach,  🏝
-### gone for a nice drive,  🏎
-### music is playing too loud to hear the notifications,  🔊
-### rock on!   🎙
+### I might be on a nice drive,  🏎
+### or playing music louder than it should be!   🎙🔊
 
 
 I initially got into coding because of the money, I dreamed of making a big pile of money to sit at a computer and create something from nothing. It was after I started plugging myself into working in collaborative environments that I picked up the essence of something else something that wasn't just greed, I found a calling. I've enjoyed nothing more than dedicating my skills to developing a project with others.
