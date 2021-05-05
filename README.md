@@ -13,7 +13,7 @@
 
 
 ### If I haven't responded its most likely due to..
-### I'm in the mountains..  U+1F3D4
+### I'm in the mountains..  🏔
 ### maybe soaking up the sun at the beach..
 ### gone for a nice drive...
 ### music is playing too loud to hear the notifications
