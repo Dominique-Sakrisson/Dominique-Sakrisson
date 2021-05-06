@@ -1,6 +1,6 @@
 ## Hello, you've reached Dom👋
 ## Software Engineer
-#### Your extroverted introvert
+
 
 
 ## Location Location Location: 
@@ -12,13 +12,10 @@
 #### email: domsakrisson@gmail.com
 
 
-### If I'm not working in a codebase..
+### If I'm not working in a codebase,
 ### I'm in the mountains,  🏔
-### maybe soaking up the sun at the beach,  🏝
-### I might be on a nice drive,  🏎
-### or playing music louder than it should be!   🎙🔊
+### riding around a skateboard trying to embrace whats left of my youth,  
+### or 'cruising around in my 6-4',  🏎
 
 
-I initially got into coding because of the money, I dreamed of making a big pile of money to sit at a computer and create something from nothing. It was after I started plugging myself into working in collaborative environments that I picked up the essence of something else something that wasn't just greed, I found a calling. I've enjoyed nothing more than dedicating my skills to developing a project with others.
-When I sit down to code everything else seems to fade away and it becomes all about the problem scope at hand. Things like implementing an algorithm or figuring out how to use a new library for your specific problem are some areas that really resonate with me. In a more altruistic sense, when working as part of a team you get to experience something unlike most other things. You connect with your team in a way that you can feel each other growing. When one of their breakthroughs sparks understanding for yourself you gain knowledge which wouldn't be possible if you were working alone and vise versa. It's truly an experience that has brought much joy to my life and I would encourage anybody who hasn't coded with others to do so with haste.
-  
+I initially got into coding because of the money. I dreamed of making a big pile of money by sitting at a computer and creating something from nothing. It was after I started plugging myself into working in collaborative environments that I picked up a true desire to be a developer past simply money. I've enjoyed nothing more than developing projects in collaboration with others. Things that resonate with me the most are implementing algorithms that take advantage of modern libraries and frameworks. The majority of my experience has been in the ES6 version of javascript. 
