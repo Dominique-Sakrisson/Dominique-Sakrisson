@@ -4,7 +4,7 @@
 
 ## Contact me via.
 #### linkedIn: https://www.linkedin.com/in/dominique-sakrisson/
-#### email: domsakrisson@gmail.com
+#### email: technestedd@gmail.com
 
 
 
