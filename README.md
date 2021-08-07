@@ -8,5 +8,5 @@
 
 
 
- ### I make use of a modern web development stack consisting of nodejs/ express, cloud storage services like AWS S3, for databases I lean to writting them in postgres. Working with other developers and coming up with creative solutions are my favorite aspects of being a developer.
+ ### I make use of a modern web development stack consisting of nodejs/express, postgres and cloud storage services like AWS S3. Working with other developers and coming up with creative solutions are my favorite aspects of being a developer.
 
