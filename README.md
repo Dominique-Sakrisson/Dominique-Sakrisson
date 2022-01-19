@@ -1,7 +1,7 @@
 ## Hello, you've reached Dom👋 
 ## Software Engineer
 
-#:neckbeard:	
+# :neckbeard:	
 
 ## Contact me via.
 #### linkedIn: https://www.linkedin.com/in/dominique-sakrisson/
